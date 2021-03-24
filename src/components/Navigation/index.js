@@ -4,7 +4,7 @@ import "./styles.scss";
 
 const Navigation = () => (
   <Navbar collapseOnSelect expand="lg" bg="light" variant="black">
-    <Navbar.Brand href="/">
+    <Navbar.Brand href="/sofj.cuadros/">
       <img
         src={logo}
         width="100"
@@ -16,11 +16,13 @@ const Navigation = () => (
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
       <Nav className="mr-auto">
-        <Nav.Link href="/">Home</Nav.Link>
+        <Nav.Link href="/sofj.cuadros/">Home</Nav.Link>
         <NavDropdown title="Categorias" id="collasible-nav-dropdown">
-          <NavDropdown.Item href="/list/1">Mates</NavDropdown.Item>
-          <NavDropdown.Item href="/list/2">Cuadros</NavDropdown.Item>
-          <NavDropdown.Item href="/list/3">Bazar</NavDropdown.Item>
+          <NavDropdown.Item href="/sofj.cuadros/list/1">Mates</NavDropdown.Item>
+          <NavDropdown.Item href="/sofj.cuadros/list/2">
+            Cuadros
+          </NavDropdown.Item>
+          <NavDropdown.Item href="/sofj.cuadros/list/3">Bazar</NavDropdown.Item>
         </NavDropdown>
       </Nav>
     </Navbar.Collapse>
