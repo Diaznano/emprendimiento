@@ -1,0 +1,92 @@
+{
+	"imageSlides": [{
+			"image": "https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/159963738_499039501094157_1766460944328768874_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=D_6gSEenhVYAX-j-9ae&oh=5d94caa8241d097c1d5306bfa247a70b&oe=607B5DE7",
+			"url": "https://www.instagram.com/p/CMXZv27HiXJ/"
+		},
+		{
+			"image": "https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/159909036_802080673997044_3481983751905052778_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=vnmsaeaGbv0AX-yiebg&oh=cc0bc3113b2fa00b6b8dd7403863d792&oe=607934BC",
+			"url": "https://www.instagram.com/p/CMVn3H4Hv-N/"
+		},
+		{
+			"image": "https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/158734201_367454044240114_6594134147930134961_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3yNLf2pGDiUAX_5t9WP&oh=9bcfc89689e7760d90989e7b96d5f502&oe=60796796",
+			"url": "https://www.instagram.com/p/CMLPWo2JmUX/"
+		}
+	],
+	"products": [{
+		"id": 1,
+		"price": "2500",
+		"category": 1,
+		"name": "Set Matero",
+		"description": "Set completo: Azucarera, Yerbero, Mate, Bombilla, Bandeja, Pintado a mano 💖",
+		"images": [
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/159963738_499039501094157_1766460944328768874_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=K7b9_1NL62QAX-hbZUS&ccb=7-4&oh=ed7df7e2ea7fdd72c943aa0368684b62&oe=607F5267&_nc_sid=4f375e"
+		],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado en el set Matero de Atletico"
+	}, {
+		"id": 2,
+		"price": "2500",
+		"category": 1,
+		"name": "Set Girasol",
+		"description": "Set completo de algarrobo, pintado a mano ☺️💖, Diseño único elegido por el cliente. Gracias por confiar 🌟",
+		"images": [
+			"https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/159909036_802080673997044_3481983751905052778_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=efBWRWN6TKkAX_s3Kgk&ccb=7-4&oh=2f8088bf20af07b9fdb06e71f1f86656&oe=607D293C&_nc_sid=4f375e",
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/159958400_480568533117651_5579691878302552734_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ZH9hKyh6T6oAX9y7TNJ&ccb=7-4&oh=c7dea9ef14d2b16bb69acde1fb11e91a&oe=6080C5DB&_nc_sid=4f375e",
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/159895519_117190677090098_7618235312958954662_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=r14DVtYvvjIAX-RFMxO&ccb=7-4&oh=7987466c19f63419c6eea25d67e40bfe&oe=607E0C4C&_nc_sid=4f375e"
+		],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado en el set Girasol"
+	}, {
+		"id": 3,
+		"price": "1350",
+		"category": 1,
+		"name": "Mate Marga",
+		"description": "Mate ecocuero de calabaza pintado a mano 😍",
+		"images": [
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/159088890_1128855844248471_4185533531968451597_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=G7MPodvMfr0AX-VymSg&ccb=7-4&oh=9883de129485334d14efb91b86e3143c&oe=607E4823&_nc_sid=4f375e"
+		],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado en el Mate Marge"
+	}, {
+		"id": 4,
+		"price": "2100",
+		"category": 1,
+		"name": "Set Magenta",
+		"description": "Este hermoso set incluse: Mate, Azucarera, Terbero, Mini tabla para snack, El set completo es de algarrobo y está pintado a mano, diseño original y único.",
+		"images": [
+			"https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/158734201_367454044240114_6594134147930134961_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ys1IA0KgXb0AX_8oNwr&ccb=7-4&oh=124576e77a4a075c0ce70832d12eb769&oe=607D5C16&_nc_sid=4f375e",
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/158009431_726890764644231_1456958429254060846_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ToFdHketzOAAX-hZsJI&ccb=7-4&oh=f27f15e3d6a7d11db0ec796dd0883350&oe=607F48D2&_nc_sid=4f375e",
+			"https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/158734202_452506462661608_7421374198569842686_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ItgJlqPy6PMAX_qSGfO&ccb=7-4&oh=f586dc42f61f48aabea3e1205e634a31&oe=6080337E&_nc_sid=4f375e"
+		],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado en el Set Magenta"
+	}, {
+		"id": 5,
+		"price": "2100",
+		"category": 3,
+		"name": "Caja de Te o Bijou",
+		"description": "Caja de madera para té o bijou, tiene 6 compartimientos y es totalmente pintada a mano 😍🙋🏽‍♀️ Una idea súper linda para regalar, podes encargar el tuyo por MP.",
+		"images": [
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/161955750_192801828962110_2446299520561665258_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=HQk1Gjxh1dYAX8-bODc&ccb=7-4&oh=0fce52df95cec0061b27a87f0b35cd22&oe=6085EAEA&_nc_sid=4f375e",
+			"https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/162478935_3595821660543601_8258100862910887204_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wLyaMlr5ra0AX85tGr7&ccb=7-4&oh=68b39b066b91f31a12f66dcbdb3caf64&oe=608275FF&_nc_sid=4f375e",
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/161840506_4511671622192769_3750437389210283967_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=7d5nxd327YoAX-Cagcq&ccb=7-4&oh=7a0aa2520b73377e6cf39abada772f36&oe=6083C104&_nc_sid=4f375e"
+		],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado por la caja de TE"
+	}, {
+		"id": 6,
+		"price": "2100",
+		"category": 2,
+		"name": "Bosque Rojo",
+		"description": "60x80 Increíble hacer en este tamaño, mucho trabajo y detalles pero salió",
+		"images": [
+			"https://instagram.ftuc1-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/155471229_939740146833622_4312678288060466164_n.jpg?tp=1&_nc_ht=instagram.ftuc1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=mqvGfU7VcE8AX-JqyRH&ccb=7-4&oh=6908fce8d186bbf477d27db8af79bd68&oe=608513D7&_nc_sid=4f375e"
+			],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado por el cuadro de Bosque Rojo"
+	}, {
+		"id": 7,
+		"price": "2100",
+		"category": 2,
+		"name": "Homero",
+		"description": "Cuadro 35x50 ❤️ Realizado con acrílicos sobre lienzo",
+		"images": [
+			"https://instagram.ftuc1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/144323251_455614379137927_4156141651769425817_n.jpg?tp=1&_nc_ht=instagram.ftuc1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=5Jm0gOzdp4gAX_cUVNr&ccb=7-4&oh=983ebc35252d7bb3053a57f079ae11a3&oe=60836FAA&_nc_sid=4f375e"
+			],
+		"message": "https://api.whatsapp.com/send?phone=5493815247886&text=Hola, estoy interesado por el cuadro de Homero"
+	}]
+}

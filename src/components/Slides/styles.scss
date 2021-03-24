@@ -1,0 +1,14 @@
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    background-size: cover;
+    background-color: #f8f9fa;
+  }
+
+.slide-images {
+  padding-top: 15px;
+  padding-bottom: 25px;
+  background-color: #fcd7f4;
+}

@@ -1,0 +1,18 @@
+.social-button {
+  position: absolute;
+  left: 5px;
+  flex-direction: column;
+  display: flex;
+  top: 50%;
+  height: 110px;
+  justify-content: space-around;
+}
+
+.icon-button {
+  box-shadow: 1px 2px 5px #888888;
+  border-radius: 50px;
+}
+
+.img-social {
+  border-radius: 50%;
+}
