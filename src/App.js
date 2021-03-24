@@ -13,10 +13,10 @@ function App() {
         <div className="app-content">
           <Navigation />
           <Switch>
-            <Route exact path="/">
+            <Route path="/sofj.cuadros/">
               <Home />
             </Route>
-            <Route exact path="/list/:category">
+            <Route path="/sofj.cuadros/list/:category">
               <ListProducts />
             </Route>
           </Switch>
