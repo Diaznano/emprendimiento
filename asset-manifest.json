@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sofj.cuadros/static/css/main.a906b6fa.chunk.css",
-    "main.js": "/sofj.cuadros/static/js/main.a2457388.chunk.js",
-    "main.js.map": "/sofj.cuadros/static/js/main.a2457388.chunk.js.map",
+    "main.js": "/sofj.cuadros/static/js/main.c1656cc1.chunk.js",
+    "main.js.map": "/sofj.cuadros/static/js/main.c1656cc1.chunk.js.map",
     "runtime-main.js": "/sofj.cuadros/static/js/runtime-main.21a022dc.js",
     "runtime-main.js.map": "/sofj.cuadros/static/js/runtime-main.21a022dc.js.map",
     "static/css/2.bea77859.chunk.css": "/sofj.cuadros/static/css/2.bea77859.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.bea77859.chunk.css",
     "static/js/2.eb5b5564.chunk.js",
     "static/css/main.a906b6fa.chunk.css",
-    "static/js/main.a2457388.chunk.js"
+    "static/js/main.c1656cc1.chunk.js"
   ]
 }
