@@ -21,8 +21,11 @@ const ListProducts = () => {
       title = "Productos";
       break;
   }
+
+  const { innerHeight: height } = window;
+
   return (
-    <div>
+    <div style={{ height, paddingTop: 120 }}>
       <h1>{title}</h1>
       <div className="row images-product">
         {products

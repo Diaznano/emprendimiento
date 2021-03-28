@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  flex-direction: row;
 }
 
 .navbar.navbar-expand-lg.navbar-black.bg-light {
@@ -9,4 +10,27 @@
 a.nav-link {
   color: white !important;
   font-weight: bold;
+}
+
+.header-page {
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  z-index: 10;
+  height: 120px;
+  padding-top: 30px;
+  box-shadow: 1px 2px 5px #888888;
+}
+
+.ui.segment {
+  border-radius: 0 !important;
+  border: 0 !important;
+}
+
+.ui.grid>.column:not(.row) {
+  padding-bottom: 0 !important;
+}
+
+.app-content {
+  background-color: white;
 }

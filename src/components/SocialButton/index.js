@@ -1,9 +1,16 @@
 import React from "react";
 import "./styles.scss";
+import PropTypes from "prop-types";
 
-const SocialButtonsPage = () => {
+const SocialButtonsPage = ({ isVisible }) => {
   return (
-    <div className="social-button">
+    <div
+      style={{
+        left: isVisible ? 205 : 5,
+        transition: "all 0.5s ease-in",
+      }}
+      className="social-button"
+    >
       <a
         className="icon-button"
         href="https://api.whatsapp.com/send?phone=5493815247886"
@@ -25,6 +32,10 @@ const SocialButtonsPage = () => {
       </a>
     </div>
   );
+};
+
+SocialButtonsPage.propTypes = {
+  isVisible: PropTypes.bool,
 };
 
 export default SocialButtonsPage;
