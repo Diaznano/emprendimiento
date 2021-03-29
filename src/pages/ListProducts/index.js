@@ -25,7 +25,7 @@ const ListProducts = () => {
   const { innerHeight: height } = window;
 
   return (
-    <div style={{ height, paddingTop: 120 }}>
+    <div style={{ height, paddingTop: 120, marginRight: 40, marginLeft: 15 }}>
       <h1>{title}</h1>
       <div className="row images-product">
         {products

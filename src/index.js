@@ -6,6 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"; // Archivo CSS de Bootstrap 4
 import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
+import "react-slideshow-image/dist/styles.css";
 
 ReactDOM.render(
   <React.StrictMode>

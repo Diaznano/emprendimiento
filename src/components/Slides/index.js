@@ -1,12 +1,11 @@
 import React from "react";
 import { Slide } from "react-slideshow-image";
-import "react-slideshow-image/dist/styles.css";
 import PropTypes from "prop-types";
 import "./styles.scss";
 
 const Slides = ({ images }) => {
   const renderSlide = ({ image, url }) => (
-    <div className="each-slide">
+    <div key={url} className="each-slide">
       <a href={url}>
         <img src={image} alt="new" height={450} width={450} />
       </a>
@@ -23,7 +22,7 @@ const Slides = ({ images }) => {
 };
 
 Slides.propTypes = {
-  images: PropTypes.arrayOf({}),
+  images: PropTypes.object,
 };
 
 export default Slides;

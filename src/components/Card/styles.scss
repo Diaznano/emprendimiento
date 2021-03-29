@@ -1,33 +1,88 @@
-.link-product {
-    width: auto;
-    height: auto;
+.product-grid{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    transition: all 0.5s;
 }
-
-.button-link {
+.product-grid:hover{ box-shadow: 0 5px 18px rgba(0, 0, 0, 0.3); }
+.product-grid .product-image{
     position: relative;
-    margin-top: -125px;
-    width: 200;
-    margin-left: 10px;
+    overflow: hidden;
 }
-.styles__product-card-gallery___2CygM .styles__gallery-item___ug80f {
-    background-size: contain !important;
-    background-color: white !important;
+.product-grid .product-image a.image{ display: block; }
+.product-grid .product-image img{
+    width: 300px;
+    height: 300px;
+    background-size: contain;
 }
-
-.styles__product-card-gallery___2CygM {
-    background-color: white !important;
+.product-image .pic-1{
+    opacity: 1;
+    transition: all 0.5s;
 }
-
-.styles__price-tag___UwO7P {
-    background-color: #ED808F !important;
+.product-grid .product-sale-label{
+    color: #000;
+    background: #fcd7f4;
+    font-size: 14px;
+    font-style: italic;
+    text-transform: uppercase;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
 }
-
-.btn-primary {
-    background-color: #C8E2C9 !important;
-    border-color: #C8E2C9 !important;
-    color: #232823 !important;
+.product-grid .product-rating{
+    background: rgba(255,255,255,0.95);
+    width: 100%;
+    padding: 10px;
+    opacity: 0;
+    position: absolute;
+    bottom: -60px;
+    left: 0;
+    transition: all .2s ease-in-out 0s;
 }
-
-.styles__product-card-description___2ngyd {
-    letter-spacing: 0 !important;
+.product-grid:hover .product-rating{
+    opacity: 1;
+    bottom: 0;
+}
+.product-grid .show-info{
+    color: #6DA84A;
+    font-size: 14px;
+    font-weight: 600;
+    border-bottom: 1px solid #6DA84A;
+    float:center;
+    transition: all .2s ease-in-out 0s;
+}
+.product-grid .show-info:hover{
+    color: #000;
+    border-color: #000;
+}
+.product-grid .product-content{
+    background: #F5F5F5;
+    padding: 15px;
+}
+.product-grid .title{
+    font-size: 18px;
+    text-transform: capitalize;
+    margin: 0 0 5px;
+}
+.product-grid .title a{
+    color: #111;
+    transition: all 500ms;
+}
+.product-grid .title a:hover{ color: #6DA84A; }
+.product-grid .price{
+    color: #707070;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.product-grid .price span{
+    text-decoration: line-through;
+    margin-right: 5px;
+    display: inline-block;
+    opacity: 0.6;
+}
+@media only screen and (max-width:990px){
+    .product-grid{ margin-bottom: 40px; }
 }

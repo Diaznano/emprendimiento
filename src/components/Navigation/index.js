@@ -22,10 +22,17 @@ const Navigation = ({ isVisible, changeVisible }) => {
         paddingTop: 100,
       }}
     >
-      {item("Inicio", "#/")}
-      {item("Mates", "#/list/1")}
-      {item("Cuadros", "#/list/2")}
-      {item("Bazar", "#/list/3")}
+      <div
+        style={{
+          position: "fixed",
+          marginLeft: 40,
+        }}
+      >
+        {item("Inicio", "#/")}
+        {item("Mates", "#/list/1")}
+        {item("Cuadros", "#/list/2")}
+        {item("Bazar", "#/list/3")}
+      </div>
     </div>
   );
 };

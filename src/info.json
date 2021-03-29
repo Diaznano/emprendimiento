@@ -81,6 +81,7 @@
 	}, {
 		"id": 7,
 		"price": "2100",
+		"discount": 20,
 		"category": 2,
 		"name": "Homero",
 		"description": "Cuadro 35x50 ❤️ Realizado con acrílicos sobre lienzo",
