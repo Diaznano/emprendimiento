@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sofj.cuadros/static/css/main.2d4de150.chunk.css",
-    "main.js": "/sofj.cuadros/static/js/main.333cf6dd.chunk.js",
-    "main.js.map": "/sofj.cuadros/static/js/main.333cf6dd.chunk.js.map",
-    "runtime-main.js": "/sofj.cuadros/static/js/runtime-main.8067152f.js",
-    "runtime-main.js.map": "/sofj.cuadros/static/js/runtime-main.8067152f.js.map",
-    "static/css/2.bea77859.chunk.css": "/sofj.cuadros/static/css/2.bea77859.chunk.css",
-    "static/js/2.f90fb967.chunk.js": "/sofj.cuadros/static/js/2.f90fb967.chunk.js",
-    "static/js/2.f90fb967.chunk.js.map": "/sofj.cuadros/static/js/2.f90fb967.chunk.js.map",
-    "static/js/3.85a66f14.chunk.js": "/sofj.cuadros/static/js/3.85a66f14.chunk.js",
-    "static/js/3.85a66f14.chunk.js.map": "/sofj.cuadros/static/js/3.85a66f14.chunk.js.map",
+    "main.css": "/sofj.cuadros/static/css/main.d4351f49.chunk.css",
+    "main.js": "/sofj.cuadros/static/js/main.53e7fe90.chunk.js",
+    "main.js.map": "/sofj.cuadros/static/js/main.53e7fe90.chunk.js.map",
+    "runtime-main.js": "/sofj.cuadros/static/js/runtime-main.745aee94.js",
+    "runtime-main.js.map": "/sofj.cuadros/static/js/runtime-main.745aee94.js.map",
+    "static/css/2.4bc23422.chunk.css": "/sofj.cuadros/static/css/2.4bc23422.chunk.css",
+    "static/js/2.3c7a051e.chunk.js": "/sofj.cuadros/static/js/2.3c7a051e.chunk.js",
+    "static/js/2.3c7a051e.chunk.js.map": "/sofj.cuadros/static/js/2.3c7a051e.chunk.js.map",
+    "static/js/3.6225f723.chunk.js": "/sofj.cuadros/static/js/3.6225f723.chunk.js",
+    "static/js/3.6225f723.chunk.js.map": "/sofj.cuadros/static/js/3.6225f723.chunk.js.map",
     "index.html": "/sofj.cuadros/index.html",
-    "static/css/2.bea77859.chunk.css.map": "/sofj.cuadros/static/css/2.bea77859.chunk.css.map",
-    "static/css/main.2d4de150.chunk.css.map": "/sofj.cuadros/static/css/main.2d4de150.chunk.css.map",
-    "static/js/2.f90fb967.chunk.js.LICENSE.txt": "/sofj.cuadros/static/js/2.f90fb967.chunk.js.LICENSE.txt",
+    "static/css/2.4bc23422.chunk.css.map": "/sofj.cuadros/static/css/2.4bc23422.chunk.css.map",
+    "static/css/main.d4351f49.chunk.css.map": "/sofj.cuadros/static/css/main.d4351f49.chunk.css.map",
+    "static/js/2.3c7a051e.chunk.js.LICENSE.txt": "/sofj.cuadros/static/js/2.3c7a051e.chunk.js.LICENSE.txt",
     "static/media/Logo.c646536b.gif": "/sofj.cuadros/static/media/Logo.c646536b.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.8067152f.js",
-    "static/css/2.bea77859.chunk.css",
-    "static/js/2.f90fb967.chunk.js",
-    "static/css/main.2d4de150.chunk.css",
-    "static/js/main.333cf6dd.chunk.js"
+    "static/js/runtime-main.745aee94.js",
+    "static/css/2.4bc23422.chunk.css",
+    "static/js/2.3c7a051e.chunk.js",
+    "static/css/main.d4351f49.chunk.css",
+    "static/js/main.53e7fe90.chunk.js"
   ]
 }
